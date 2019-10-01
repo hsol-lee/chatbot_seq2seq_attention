@@ -2,7 +2,7 @@
 
 
 # Model structure
-![images](images/chatbot_seq2seq.png)  
+![images](chatbot_seq2seq.png)  
 
 # Learning Data
 Title|Contents|Other
