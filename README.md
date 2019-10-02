@@ -1,6 +1,3 @@
-# Seq2seq+attention
-
-
 # Model structure
 ![images](chatbot_seq2seq.png)  
 
