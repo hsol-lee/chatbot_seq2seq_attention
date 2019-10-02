@@ -10,7 +10,7 @@ tf.app.flags.DEFINE_integer('emb_size', 128, 'embedding size')
 tf.app.flags.DEFINE_float('dropout_width', 0.8, 'dropout width') 
 tf.app.flags.DEFINE_float('learning_rate', 1e-3, 'learning rate') 
 tf.app.flags.DEFINE_string('data_path', './data/ChatBotData.csv', 'data path') 
-tf.app.flags.DEFINE_string('voca_path', './vocaData.voc', 'voca path') 
+tf.app.flags.DEFINE_string('voca_path', './vocabularydata.voc', 'voca path') 
 tf.app.flags.DEFINE_string('check_point_path', './check_point', 'check point path') 
 tf.app.flags.DEFINE_string('f', '', 'kernel') 
 
