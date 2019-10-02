@@ -3,7 +3,7 @@ import sys
 
 from configs import DEFINES
 
-# Bagdanau Attention class 정의
+# Bahdanau Attention class 정의
 class BahdanauAttention(tf.keras.Model):
     # 파라미터 세팅
   def __init__(self, units):
